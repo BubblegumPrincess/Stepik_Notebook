@@ -1,4 +1,4 @@
-# Digital Public Relations - связи с общественностью
+# Digital Public Relations — связи с общественностью
 
 <h4>Содержание</h4>
   <ol>
