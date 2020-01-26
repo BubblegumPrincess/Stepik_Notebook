@@ -1,8 +1,8 @@
-# Digital Public Relations — связи с общественностью
+# 5. Digital Public Relations — связи с общественностью
 
 <h4>Содержание</h4>
-<ol>
-  <li><a href="#Введение">Введение</a>
+<ul>
+  <li><a href="#5.1_Введение">5.1 Введение</a>
     <ol>
       <li><a href="#Что такое Public Relations?">Что такое Public Relations?</a></li>
       <li><a href="#Различия между PR и рекламой">Различия между PR и рекламой</a></li>
@@ -14,7 +14,7 @@
     </ol>
   </li>
   <li><a href="#Дополнительно">Дополнительно</a></li>
-</ol>
+</ul>
 
 ## Введение
 **Digital Public Relations — связи с общественностью в интернет среде.** <br> <br>
