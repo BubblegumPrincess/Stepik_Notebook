@@ -1,7 +1,7 @@
 # Digital Public Relations — связи с общественностью
 
 <h4>Содержание</h4>
-  <ol>
+<ol>
   <li><a href="#Введение">Введение</a></li>
   <li><a href="#">А это — третий</a>
     <ol>
@@ -18,7 +18,6 @@
   </li>
   <li><a href="#Дополнительно">Дополнительно</a></li>
 </ol>
-  </section>
 
 ## Введение
 **Digital Public Relations — связи с общественностью.** <br> <br>
