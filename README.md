@@ -6,5 +6,5 @@
 
 ### Навигация
 <ol>
-  <li><a href="">Основы интернет-маркетинга</a></li>
+  <li><a href="https://github.com/Kalashnikov-Ivan/Stepik_Notebook/tree/master/Internet_Marketing_Basics">Основы интернет-маркетинга</a></li>
 </ol>
