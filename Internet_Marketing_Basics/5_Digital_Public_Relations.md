@@ -16,9 +16,12 @@
   <li><a href="#Дополнительно">Дополнительно</a></li>
 </ul>
 
-## Введение
+<hr>
+
+## 5.1 Введение
 **Digital Public Relations — связи с общественностью в интернет среде.** <br> <br>
-В основах Digital Public Relations лежат те же основы, что и в обычном Public Relations.<hr>
+В основах Digital Public Relations лежат те же основы, что и в обычном Public Relations.
+
 
 ### ***Что такое Public Relations?***
 
