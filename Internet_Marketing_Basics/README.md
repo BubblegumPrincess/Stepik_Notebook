@@ -6,5 +6,6 @@
 
 ### Навигация
 <ol>
-  <li><a href="https://github.com/Kalashnikov-Ivan/Stepik_Notebook/blob/master/Internet_Marketing_Basics/5_Digital_Public_Relations.md">Digital Public Relations - Связи с общественностью</a></li>
+  <li><a href="https://github.com/Kalashnikov-Ivan/Stepik_Notebook/blob/master/Internet_Marketing_Basics/5_Digital_Public_Relations.md">Digital Public Relations – Связи с общественностью</a></li>
+  <li><a href="https://github.com/Kalashnikov-Ivan/Stepik_Notebook/blob/master/Internet_Marketing_Basics/6_Social_Media_Marketing_(SMM).md">Social Media Marketing – Маркетинг в социальных медиа</a></li>
 </ol>
