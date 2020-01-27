@@ -1,1 +1,1 @@
-# 6. Social Media Marketing (SMM) — связи с общественностью
+# 6. Social Media Marketing (SMM) — Маркетинг в социальных медиа
