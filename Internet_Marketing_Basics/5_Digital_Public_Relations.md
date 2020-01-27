@@ -2,14 +2,14 @@
 
 <h4>Содержание</h4>
 <ul>
-  <li><a href="#5.1_Введение">5.1 Введение</a>
+  <li><a href="#51-введение">5.1 Введение</a>
     <ol>
-      <li><a href="#Что_такое_Public_Relations?">Что такое Public Relations?</a></li>
-      <li><a href="#Различия между_PR_и_рекламой">Различия между PR и рекламой</a></li>
-      <li><a href="#">Формирование_образа_компании</a></li>
+      <li><a href="#что-такое-public-relations">Что такое Public Relations?</a></li>
+      <li><a href="#различия-между-pr-и-рекламой">Различия между PR и рекламой</a></li>
+      <li><a href="#формирование-образа-компании">Формирование_образа_компании</a></li>
     </ol>
   </li>
-  <li><a href="#5.2_Направления_работы_в_Digital_Public_Relations">5.2 Направления работы в Digital Public Relations</a>
+  <li><a href="#52-направления-работы-в-digital-public-relations">5.2 Направления работы в Digital Public Relations</a>
     <ol>
       <li><a href="#">Любимый четвертый уровень</a></li>
     </ol>
