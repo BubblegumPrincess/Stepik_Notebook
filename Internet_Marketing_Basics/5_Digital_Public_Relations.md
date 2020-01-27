@@ -22,7 +22,6 @@
        <li><a href="#этапы-работы-над-инфоповодами">Этапы работы над инфоповодами</a></li>
     </ol>
   </li>
-  <li><a href="#Дополнительно">Дополнительно</a></li>
 </ul>
 
 ![PR](https://github.com/Kalashnikov-Ivan/Stepik_Notebook/blob/master/Internet_Marketing_Basics/image/PR-v-Advertising-graphic.png)
