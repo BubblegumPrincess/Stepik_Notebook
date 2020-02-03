@@ -24,7 +24,7 @@
   </li>
 </ul>
 
-![PR](https://github.com/Kalashnikov-Ivan/Stepik_Notebook/blob/master/Internet_Marketing_Basics/image/PR-v-Advertising-graphic.png)
+![PR](image/PR-v-Advertising-graphic.png)
 
 <hr>
 
